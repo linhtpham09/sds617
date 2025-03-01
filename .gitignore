@@ -1,1 +1,4 @@
 .env
+aclImdb*
+assn1/logs*
+assn1/results*
